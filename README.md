@@ -1,5 +1,3 @@
-# Models
-
 ## The SIR model
 The SIR model is one of the simplest compartmental models, and many models are derivatives of this basic form. The model consists of three compartments:
 
